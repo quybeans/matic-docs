@@ -14,7 +14,7 @@ image: https://wiki.polygon.technology/img/polygon-logo.png
 ---
 
 This page includes common governance terms and processes for the Polygon PoS blockchain.
-
+noice
 ## Heimdall
 
 | Upgrade Type      | Softfork/Hardfork | Proposal                                      | Consensus Options      | Implementation Flow                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
